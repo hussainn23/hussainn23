@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hussainn23
 - 👀 I’m interested in android app development
-- 🌱 I’m currently learning java kotlin with firebase and room database using MVVM
+- 🌱 I’m currently working on java kotlin with firebase and room database using MVVM and backend using Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
